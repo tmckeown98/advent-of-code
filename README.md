@@ -8,7 +8,7 @@ To run the app in dev use `yarn dev`
 
 Prettier and ESLint can be ran using `yarn lint` or separately using `yarn lint:format` and `yarn lint:fix` respectively.
 
-You can also visit: `URL TO BE ADDED` to see the live deployment of this web app
+You can also [visit the live web app](https://advent-of-code-rust.vercel.app/)
 
 ## Aim
 
