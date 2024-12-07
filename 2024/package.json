@@ -1,0 +1,21 @@
+{
+  "name": "tmckeown98-aoc-2024",
+  "description": "Advent of Code 2024 - Thomas McKeown",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx ts-node src/scripts/runDays.ts",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "ts-node": "^10.9.2",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "marked": "^15.0.3"
+  }
+}
