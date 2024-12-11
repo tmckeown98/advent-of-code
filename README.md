@@ -12,7 +12,7 @@ Each year's solutions are stored in their respective directories, with individua
 
 | Year                     | Stars Collected | Language(s) |
 | ------------------------ | --------------- | ----------- |
-| [2024](./2024/README.md) | 2 ⭐            | TypeScript  |
+| [2024](./2024/README.md) | 6 ⭐            | TypeScript  |
 
 ---
 
