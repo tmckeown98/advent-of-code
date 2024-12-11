@@ -1,13 +1,3 @@
-/* Day 1: Historian Hysteria
-
-Part 1: 
-- input: 2 lists of numbers side-by-side
-- process: 
-  - parse the input into 2 separate lists
-  - sort each list (ascending)
-  - get absolute difference between them
-  - calc the total
-*/
 const ERROR_LIST_LENGTH = "Error: lists are not equal length";
 const ERROR_NON_NUMERIC = "Error: lists contain non-numeric data";
 
