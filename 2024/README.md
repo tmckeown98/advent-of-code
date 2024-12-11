@@ -4,11 +4,11 @@ This directory contains my solutions to [Advent of Code 2024](https://adventofco
 
 ## 🌟 Progress Table
 
-| Day                            | Part 1 | Part 2 |
-| ------------------------------ | ------ | ------ |
-| [1](./src/day1/description.md) | ✅     | ✅     |
-| [2](./src/day2/description.md) | ✅     | ✅     |
-| [3](./src/day3/description.md) | ✅     | ✅     |
+| Day                       | Part 1 | Part 2 |
+| ------------------------- | ------ | ------ |
+| [1](./src/day1/README.md) | ✅     | ✅     |
+| [2](./src/day2/README.md) | ✅     | ✅     |
+| [3](./src/day3/README.md) | ✅     | ✅     |
 
 ---
 

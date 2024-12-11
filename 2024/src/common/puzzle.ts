@@ -21,7 +21,7 @@ class Puzzle {
   constructor({
     directoryPath,
     outputFileName = "solution.md",
-    descriptionFileName = "description.md",
+    descriptionFileName = "README.md",
     inputs = ["input"],
     part1,
     part2,
