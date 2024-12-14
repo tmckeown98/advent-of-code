@@ -9,6 +9,7 @@ This directory contains my solutions to [Advent of Code 2024](https://adventofco
 | [1](./src/day1/README.md) | ✅     | ✅     |
 | [2](./src/day2/README.md) | ✅     | ✅     |
 | [3](./src/day3/README.md) | ✅     | ✅     |
+| [4](./src/day4/README.md) | ✅     | ✅     |
 
 ---
 
